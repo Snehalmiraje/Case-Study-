@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+
+
+#spring:
+ # data:
+  #  mongodb:
+   #   uri: 
+  #application:
+   # name: ADMIN-SERVICE
+
+#server:
+#  port: 9091
